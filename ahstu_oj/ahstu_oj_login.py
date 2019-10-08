@@ -76,6 +76,6 @@ def run():
 
 
 if __name__ == '__main__':
-    account = '1881180120'
-    password = 'ylyy2311'
+    account = ''
+    password = ''
     run()
